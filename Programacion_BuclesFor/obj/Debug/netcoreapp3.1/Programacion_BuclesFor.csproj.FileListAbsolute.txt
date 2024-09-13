@@ -1,0 +1,13 @@
+C:\Users\UserGPC\source\repos\Programacion_BuclesFor\Programacion_BuclesFor\obj\Debug\netcoreapp3.1\Programacion_BuclesFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserGPC\source\repos\Programacion_BuclesFor\Programacion_BuclesFor\obj\Debug\netcoreapp3.1\Programacion_BuclesFor.AssemblyInfoInputs.cache
+C:\Users\UserGPC\source\repos\Programacion_BuclesFor\Programacion_BuclesFor\obj\Debug\netcoreapp3.1\Programacion_BuclesFor.AssemblyInfo.cs
+C:\Users\UserGPC\source\repos\Programacion_BuclesFor\Programacion_BuclesFor\obj\Debug\netcoreapp3.1\Programacion_BuclesFor.csproj.CoreCompileInputs.cache
+C:\Users\UserGPC\source\repos\Programacion_BuclesFor\Programacion_BuclesFor\bin\Debug\netcoreapp3.1\Programacion_BuclesFor.exe
+C:\Users\UserGPC\source\repos\Programacion_BuclesFor\Programacion_BuclesFor\bin\Debug\netcoreapp3.1\Programacion_BuclesFor.deps.json
+C:\Users\UserGPC\source\repos\Programacion_BuclesFor\Programacion_BuclesFor\bin\Debug\netcoreapp3.1\Programacion_BuclesFor.runtimeconfig.json
+C:\Users\UserGPC\source\repos\Programacion_BuclesFor\Programacion_BuclesFor\bin\Debug\netcoreapp3.1\Programacion_BuclesFor.runtimeconfig.dev.json
+C:\Users\UserGPC\source\repos\Programacion_BuclesFor\Programacion_BuclesFor\bin\Debug\netcoreapp3.1\Programacion_BuclesFor.dll
+C:\Users\UserGPC\source\repos\Programacion_BuclesFor\Programacion_BuclesFor\bin\Debug\netcoreapp3.1\Programacion_BuclesFor.pdb
+C:\Users\UserGPC\source\repos\Programacion_BuclesFor\Programacion_BuclesFor\obj\Debug\netcoreapp3.1\Programacion_BuclesFor.dll
+C:\Users\UserGPC\source\repos\Programacion_BuclesFor\Programacion_BuclesFor\obj\Debug\netcoreapp3.1\Programacion_BuclesFor.pdb
+C:\Users\UserGPC\source\repos\Programacion_BuclesFor\Programacion_BuclesFor\obj\Debug\netcoreapp3.1\Programacion_BuclesFor.genruntimeconfig.cache
