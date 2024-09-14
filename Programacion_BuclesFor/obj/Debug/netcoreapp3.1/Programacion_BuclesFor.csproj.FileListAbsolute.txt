@@ -11,3 +11,4 @@ C:\Users\UserGPC\source\repos\Programacion_BuclesFor\Programacion_BuclesFor\bin\
 C:\Users\UserGPC\source\repos\Programacion_BuclesFor\Programacion_BuclesFor\obj\Debug\netcoreapp3.1\Programacion_BuclesFor.dll
 C:\Users\UserGPC\source\repos\Programacion_BuclesFor\Programacion_BuclesFor\obj\Debug\netcoreapp3.1\Programacion_BuclesFor.pdb
 C:\Users\UserGPC\source\repos\Programacion_BuclesFor\Programacion_BuclesFor\obj\Debug\netcoreapp3.1\Programacion_BuclesFor.genruntimeconfig.cache
+C:\Users\UserGPC\source\repos\Programacion_BuclesFor\Programacion_BuclesFor\obj\Debug\netcoreapp3.1\Programacion_BuclesFor.sourcelink.json
