@@ -1,6 +1,7 @@
 # Programacion_BuclesFor--PrimerosPasos-
 
 Descripción del Problema:
+
 En este conjunto de ejercicios, se busca desarrollar una aplicación que abarque tres funcionalidades distintas utilizando un menú interactivo. Cada funcionalidad se enfoca en resolver un problema específico utilizando un conjunto de datos:
 
 1.	Cálculo de Áreas de Triángulos:
